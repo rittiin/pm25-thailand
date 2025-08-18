@@ -1,0 +1,1 @@
+node_modules/\n.env\n.env.local\n.env.production\n.env.staging\ndist/\nbuild/\n*.log
