@@ -74,5 +74,5 @@ npm run preview
 
 ## License
 
-MIT License
+RITTIKRAI NAMKET  
 
